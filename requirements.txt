@@ -1,0 +1,3 @@
+flet
+discord.py
+aiohttp
